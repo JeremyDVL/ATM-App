@@ -12,7 +12,7 @@ An ATM app for depositing and withdrawing money.
 
 ## <ins>How to Run
 
-
+Clone Repo into editor => Open terminal in VS Code or other editor => run "npx http-server" for live server
 
 ## <ins>Future improvements
 
